@@ -1,0 +1,26 @@
+name: GUO
+title: 用于记录生活和工作的博客
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Thiago Rossener.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: 所有
+    url: /
+  - title: 国企
+    url: /myblog/guoqi
+  - title: 技术
+    url: /myblog/jishu
+  - title: 生活
+    url: /myblog/shenghuo
+email: youremail@test.com
+# See: https://disqus.com/
+disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
